@@ -36,7 +36,8 @@ print("werokamu")
 
 system.out.println(" hello world");   
 
-fmt.Println("Hello World")   
+fmt.Println("Hello World") 
+>>>print('scholar')
 
 console.log("Hello world")   
 
